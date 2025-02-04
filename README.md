@@ -1,4 +1,4 @@
-   <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.browserstack.com%2Fguide%2Fdevops-lifecycle&psig=AOvVaw2tSNWGtnknaE8uhRgBeU4R&ust=1738717578163000&source=images&opi=89978449"/> </p>
+   <p align="left"> <img src="devsecops-diagram.png"/> </p>
 
 
 
