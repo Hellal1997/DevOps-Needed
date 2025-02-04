@@ -1,4 +1,4 @@
-   <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appstudio.ca%2Fblog%2Fdevops-lifecycle%2F&psig=AOvVaw2tSNWGtnknaE8uhRgBeU4R&ust=1738717578163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCAge_pqIsDFQAAAAAdAAAAABAJ"/> </p>
+   <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.appstudio.ca%2Fblog%2Fdevops-lifecycle%2F&psig=AOvVaw2tSNWGtnknaE8uhRgBeU4R&ust=1738717578163000&source=images&opi=89978449"/> </p>
 
 
 
