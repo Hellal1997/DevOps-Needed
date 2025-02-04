@@ -1,4 +1,4 @@
-   <p align="left"> <img src="devsecops-diagram.png"/> </p>
+   <p align="left"> <img src="DevOps-life-cycle-Phases-Explained-with-Example.png"/> </p>
 
 
 
